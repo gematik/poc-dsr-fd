@@ -1,0 +1,48 @@
+{
+  "patientIdentifier": "X123456",
+  "patient": {
+    "name": "Test",
+    "dateOfBirth": "1978-06-30",
+    "bloodGroup": "AB-",
+    "allergies": [
+      "Penicillin",
+      "Erdnüsse"
+    ],
+    "medications": [
+      {
+        "name": "Medikament X",
+        "dosage": "10mg",
+        "frequency": "1x täglich"
+      },
+      {
+        "name": "Medikament Y",
+        "dosage": "8mg",
+        "frequency": "3x täglich"
+      }
+    ],
+    "medicalDiagnoses": [
+      "Hypertonie",
+      "Diabetes"
+    ],
+    "pastMedicalHistory": [
+      "Herzoperation 5/2012"
+    ],
+    "emergencyContacts": [
+      {
+        "name": "Kollege-Klaus Test",
+        "relationship": "Arbeitskollege/Arbeitskollegin",
+        "phone": "0177 110112"
+      },
+      {
+        "name": "Marie Test",
+        "relationship": "Mutter",
+        "phone": "030 34567890"
+      }
+    ],
+    "insuranceInformation": {
+      "insuranceCompany": "Test Company",
+      "policyNumber": "TEST-Nummer"
+    },
+    "organDonation": true
+  }
+}

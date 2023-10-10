@@ -1,0 +1,20 @@
+{
+  "id": "6c371ed4-f83a-47b4-8249-446852a5b382",
+  "issuedAt": "2023-08-21T17:07:31.5551793+02:00",
+  "patient": {
+    "name": "Maxi Tester",
+    "address": "Test Adresse",
+    "contact": "089 18823099"
+  },
+  "doctor": {
+    "name": "Dr. Toni Tester",
+    "address": "Test Adresse DOC",
+    "contact": "089 99010016"
+  },
+  "prescription": {
+    "medication": "TEST Heilmittel",
+    "strength": "100mg",
+    "packSize": "5 Tabletten",
+    "dosageInstruction": "1 Tablette täglich vor dem Essen"
+  }
+}

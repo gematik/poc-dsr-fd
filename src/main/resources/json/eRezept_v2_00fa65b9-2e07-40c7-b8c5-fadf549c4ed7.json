@@ -1,0 +1,29 @@
+{
+  "id": "00fa65b9-2e07-40c7-b8c5-fadf549c4ed7",
+  "issuedAt": "2023-08-22T10:52:38.5551793+02:00",
+  "patient": {
+    "name": "Maxi Tester",
+    "address": {
+      "street": "Testweg 5b",
+      "city": "Berlin",
+      "postCode": "12305"
+    },
+    "contact": "089 18823099"
+  },
+  "doctor": {
+    "name": "Dr. Toni Tester",
+    "address": {
+      "street": "Musterstraße 123",
+      "city": "Musterstadt",
+      "postCode": "01234"
+    },
+    "contact": "089 99010016"
+  },
+  "prescription": {
+    "medication": "TEST Heilmittel",
+    "strength": "100mg",
+    "packSize": "5 Tabletten",
+    "dosageInstruction": "1 Tablette täglich vor dem Essen",
+    "specialRequirements": "Kühl lagern"
+  }
+}

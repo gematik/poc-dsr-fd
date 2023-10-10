@@ -1,0 +1,30 @@
+{
+  "patientIdentifier": "X345678",
+  "patient": {
+    "name": "Max Mustermann",
+    "dateOfBirth": "1985-05-15",
+    "bloodGroup": "A+",
+    "allergies": [
+    ],
+    "medications": [
+    ],
+    "medicalDiagnoses": [
+      "Adipositas"
+    ],
+    "pastMedicalHistory": [
+      "Hüftoperationen 2022"
+    ],
+    "emergencyContacts": [
+      {
+        "name": "Heinz Mustermann",
+        "relationship": "Bruder",
+        "phone": "040 123456789"
+      }
+    ],
+    "insuranceInformation": {
+      "insuranceCompany": "Test KV",
+      "policyNumber": "990-0815"
+    },
+    "organDonation": false
+  }
+}

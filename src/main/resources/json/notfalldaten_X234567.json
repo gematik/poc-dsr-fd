@@ -1,0 +1,39 @@
+{
+  "patientIdentifier": "X234567",
+  "patient": {
+    "name": "Susi Sorglos",
+    "dateOfBirth": "2001-01-11",
+    "bloodGroup": "A-",
+    "allergies": [
+      "Tierhaar"
+    ],
+    "medications": [
+      {
+        "name": "Medikament X",
+        "dosage": "1mg",
+        "frequency": "1x täglich"
+      }
+    ],
+    "medicalDiagnoses": [
+    ],
+    "pastMedicalHistory": [
+    ],
+    "emergencyContacts": [
+      {
+        "name": "M. Sorglos",
+        "relationship": "Mutter",
+        "phone": "030 34567890"
+      },
+      {
+        "name": "V. Sorglos",
+        "relationship": "Vater",
+        "phone": "030 12567801"
+      }
+    ],
+    "insuranceInformation": {
+      "insuranceCompany": "KV Company",
+      "policyNumber": "123456789-001"
+    },
+    "organDonation": false
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "17e5970d-6e64-465f-be0c-ed0f5d7624a0",
+  "issuedAt": "2023-08-21T17:07:31.5551793+02:00",
+  "patient": {
+    "name": "Susi Sorglos",
+    "address": "Musterstraße 123 12345 Musterstadt",
+    "contact": "0177 10203099"
+  },
+  "doctor": {
+    "name": "Dr. Tester",
+    "address": "Holzweg 1 54321 Hansestadt",
+    "contact": "0166 10334451"
+  },
+  "prescription": {
+    "medication": "Foo-Medizin 1",
+    "strength": "10mg",
+    "packSize": "500 Tabletten",
+    "dosageInstruction": "max. 5 Tablette täglich"
+  }
+}
