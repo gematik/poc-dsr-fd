@@ -1,0 +1,29 @@
+{
+  "id": "01e18e40-83a5-4986-819f-c68c2227b59d",
+  "issuedAt": "2023-08-22T12:41:55.5551793+02:00",
+  "patient": {
+    "name": "Susi Sorglos",
+    "address": {
+      "street": "Musterstraße 123",
+      "city": "Musterstadt",
+      "postCode": "12345"
+    },
+    "contact": "0177 10203099"
+  },
+  "doctor": {
+    "name": "Dr. Tester",
+    "address": {
+      "street": "Holzweg 2",
+      "city": "Hauptstadt",
+      "postCode": "10036"
+    },
+    "contact": "0166 10334451"
+  },
+  "prescription": {
+    "medication": "Medizin 2",
+    "strength": "10mg",
+    "packSize": "500 Tabletten",
+    "dosageInstruction": "max. 5 Tablette täglich",
+    "specialRequirements": null
+  }
+}
